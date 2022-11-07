@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.davidnguyenandroid.flutterblocandcleanarchitecture.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.davidnguyenandroid.flutterblocandcleanarchitecture.MyBundle
 
 class MyApplicationService {
 
